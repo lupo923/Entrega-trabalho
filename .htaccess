@@ -1,0 +1,5 @@
+<ifModule mo_rewrite.c>
+    RewriteEngire On
+    RewriteRule ^(.)$public/$1 [L]
+</ifModule>
+
