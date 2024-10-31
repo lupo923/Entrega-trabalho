@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Comme:wght@500&display=swap');
+
+body{
+    background: rgb(151, 151, 151);
+    font-family: 'Comme', sans-serif;
+}
+
+.card_title, .card_itens, .col-sm-3{
+    padding: 15px;    
+}
+
+.card-img-top{
+  padding: 5px;
+}
+
+.card-body{
+  padding: 15px; 
+}
+
+.card-text{
+    color: rgb(255, 255, 255);
+}
+
+.produtos{
+    background: rgb(255, 255, 255);
+    padding: 10px;
+}
+
+.col-md-8{
+    background: rgb(63, 63, 63);
+    padding-top: 100px;
+}
+
+.titulo{
+    color: rgb(255, 255, 255);
+}
+
+.badge{
+    margin-top: 100px;    
+    font-size: 25px;
+}
+
+.table{
+    background: rgb(255, 255, 255);
+    padding-top: 100px;
+    font-size: 20px;
+    text-align: center;
+    vertical-align: middle;
+}
+.title_carrinho{
+    color: rgb(255, 255, 255);
+}
+
+.table img {
+    max-width: 70px; /* Defina a largura máxima desejada */
+    max-height: 70px; /* Defina a altura máxima desejada */
+  }
+
+  .table th {    
+    vertical-align: middle; /* Alinha o conteúdo do cabeçalho no topo */
+  }
+
+  .hiperlink{
+    text-decoration: none;
+  }
+  .title_resumo{
+    color: rgb(255, 255, 255);
+    vertical-align: middle;
+  }
+
+  .col-2{
+    
+    padding-top: 15px;
+    padding-left: 150px;
+  }
+
+  .list-group{
+    background: rgb(255, 255, 255);
+    padding: 20px;
+    font-size: 20px;
+  }
+
+  .desconto{
+    color: rgb(50, 122, 86);    
+  }
+
+  #imagem {
+    width: 316px; /* Substitua pelo valor desejado */
+    height: 300px; /* Substitua pelo valor desejado */
+    object-fit: cover; /* Preenche a área mantendo a proporção */
+}
+
+#labelEmail{
+  color: rgb(255, 255, 255);   
+}
+
+#finalizarCompra{
+  padding-top: 100px;
+}
